@@ -7,6 +7,8 @@
  * iterating through both lists and adding them while tracking
  * carry-overs. This solution is destructive and a different solution
  * would be necessary if the original numbers needed to be preserved.
+ *
+ * This solution works in O(n) time.
  */
 
 class Solution {
